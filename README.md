@@ -1,2 +1,3 @@
-# clube_do_livro
-Projeto do Curso de Data Analysis-Alura 
+  #Clube do Livro   
+Projeto do Curso de Data Analysis-Alura  
+*Nesse repositório fiz minha primeira  Data Analysis.
